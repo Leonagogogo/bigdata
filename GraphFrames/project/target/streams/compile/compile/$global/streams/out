@@ -1,0 +1,28 @@
+[error] /Users/an/Downloads/June12/SparkTest/project/LogisticRegressionWithLBFGSExample.scala:1:19: object spark is not a member of package org.apache
+[error] import org.apache.spark.ml.classification.LogisticRegression
+[error]                   ^
+[error] /Users/an/Downloads/June12/SparkTest/project/LogisticRegressionWithLBFGSExample.scala:2:19: object spark is not a member of package org.apache
+[error] import org.apache.spark.sql.SparkSession
+[error]                   ^
+[error] /Users/an/Downloads/June12/SparkTest/project/LogisticRegressionWithLBFGSExample.scala:6:17: not found: value SparkSession
+[error]     val spark = SparkSession.builder.appName("Simple Application").getOrCreate()
+[error]                 ^
+[error] /Users/an/Downloads/June12/SparkTest/project/LogisticRegressionWithLBFGSExample.scala:7:20: not found: type SparkConf
+[error]     val conf = new SparkConf().setAppName("LogisticRegressionWithLBFGSExample")
+[error]                    ^
+[error] /Users/an/Downloads/June12/SparkTest/project/LogisticRegressionWithLBFGSExample.scala:8:18: not found: type SparkContext
+[error]     val sc = new SparkContext(conf)
+[error]                  ^
+[error] /Users/an/Downloads/June12/SparkTest/project/LogisticRegressionWithLBFGSExample.scala:12:16: not found: value MLUtils
+[error]     val data = MLUtils.loadLibSVMFile(sc, "data/mllib/sample_libsvm_data.txt")
+[error]                ^
+[error] /Users/an/Downloads/June12/SparkTest/project/LogisticRegressionWithLBFGSExample.scala:20:21: not found: type LogisticRegressionWithLBFGS
+[error]     val model = new LogisticRegressionWithLBFGS()
+[error]                     ^
+[error] /Users/an/Downloads/June12/SparkTest/project/LogisticRegressionWithLBFGSExample.scala:31:23: not found: type MulticlassMetrics
+[error]     val metrics = new MulticlassMetrics(predictionAndLabels)
+[error]                       ^
+[error] /Users/an/Downloads/June12/SparkTest/project/LogisticRegressionWithLBFGSExample.scala:37:21: not found: value LogisticRegressionModel
+[error]     val sameModel = LogisticRegressionModel.load(sc,
+[error]                     ^
+[error] 9 errors found

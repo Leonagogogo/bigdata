@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/pengpeng/Downloads/assignment2_latest/src/main/scala/Pipeline.scala:10:28: imported `Pipeline' is permanently hidden by definition of object Pipeline[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport org.apache.spark.ml.Pipeline[0m
+[0m[[0m[33mwarn[0m] [0m[0m                           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

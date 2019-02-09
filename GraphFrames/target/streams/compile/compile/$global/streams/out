@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/fumelody/IntelliJ-JAVA/GraphFrames/src/main/scala/GraphX.scala:63:21: identifier expected but integer literal found.[0m
+[0m[[0m[31merror[0m] [0m[0m    edges.save(args[2])[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/fumelody/IntelliJ-JAVA/GraphFrames/src/main/scala/GraphX.scala:179:3: ']' expected but '}' found.[0m
+[0m[[0m[31merror[0m] [0m[0m  }[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

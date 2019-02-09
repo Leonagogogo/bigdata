@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: scala-logging-slf4j
+Implementation-Version: 2.1.2
+Specification-Vendor: com.typesafe.scala-logging
+Specification-Title: scala-logging-slf4j
+Implementation-Vendor-Id: com.typesafe.scala-logging
+Specification-Version: 2.1.2
+Implementation-URL: https://github.com/typesafehub/scala-logging
+Implementation-Vendor: com.typesafe.scala-logging
+

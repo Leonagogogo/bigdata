@@ -1,0 +1,19 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/an/Downloads/June12/SparkTest/target/scala-2.11/sparktest_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/an/Downloads/June12/SparkTest/target/scala-2.11/classes/WordCount$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GraphX$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/an/Downloads/June12/SparkTest/target/scala-2.11/classes/GraphX$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/an/Downloads/June12/SparkTest/target/scala-2.11/classes/WordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/an/Downloads/June12/SparkTest/target/scala-2.11/classes/WordCount$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/an/Downloads/June12/SparkTest/target/scala-2.11/classes/WordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogisticRegressionWithLBFGSExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/an/Downloads/June12/SparkTest/target/scala-2.11/classes/LogisticRegressionWithLBFGSExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GraphX.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/an/Downloads/June12/SparkTest/target/scala-2.11/classes/GraphX.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogisticRegressionWithLBFGSExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/an/Downloads/June12/SparkTest/target/scala-2.11/classes/LogisticRegressionWithLBFGSExample.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
